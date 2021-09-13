@@ -23,6 +23,9 @@ while True:
      * for multiplication
      / for division
     ''')
+    
+# extra ** for power
+# extra % for modulo
         
     
     if choice in ('+', '-', '*', '/'):
